@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on various stuff.
 - 📫 You can reach me at **LinkedIn** (https://www.linkedin.com/in/TomicaKaniski).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomicaKaniski&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomicaKaniski&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomicaKaniski&theme=tokyonight)
 
 <!---
 TomicaKaniski/TomicaKaniski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
